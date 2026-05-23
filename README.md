@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Biblioteca 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Unifacisa](https://img.shields.io/badge/Unifacisa-2025-blue?style=for-the-badge)
+![Unifacisa](https://img.shields.io/badge/Unifacisa-2026-blue?style=for-the-badge)
 
 Sistema de Gerenciamento de Biblioteca desenvolvido em **Java** utilizando os conceitos de **Programação Orientada a Objetos (POO)**.
 
